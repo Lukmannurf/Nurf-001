@@ -1,0 +1,5 @@
+resolusi
+- membuat website portofolio
+- membuat konten untuk memenuhi portofolio
+- tahun ini mempelajari backend development
+- menjadi fullstack development
